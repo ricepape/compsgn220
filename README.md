@@ -1,2 +1,2 @@
 # compsgn220
-COMP.SGN.220 Advanced Audio Processing
+Containing the works in the course COMP.SGN.220 Advanced Audio Processing
